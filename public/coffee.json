@@ -1,0 +1,230 @@
+{
+    "country": [
+    {
+    "name": "Brazil",
+    "latitude": "-14.2350",
+    "longitude": "-51.9253",
+    "number": "64300",
+    "type": "bean",
+    "note": "A living wage for workers on coffee farms in Brazil would be R$1629 (477 US dollars) per month. The current prevailing wage is R$1307 (383 US dollars) per month.",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/2/20/Fazenda_Da_Lagoa.jpg"
+    },
+    {
+    "name": "Vietnam",
+    "latitude": "14.0583",
+    "longitude": "108.2772",
+    "number": "30900",
+    "type": "bean",
+    "note": "There are estimated 34,131 children laborers growing coffee in Vietnam, 12,526 of which are under the age of 15.",
+    "image":"https://coffeehunter.com/wp-content/uploads/2015/11/Vietnam-Harvesting.jpg"
+    },
+    {
+    "name": "Colombia",
+    "latitude": "4.5709",
+    "longitude": "-74.2973",
+    "number": "13000",
+    "type": "bean",
+    "note": "Hundreds of Colombia's small coffee growers have stopped cultivating the bean in the face of low prices and reduced harvests linked to a shifting climate.",
+    "image":"https://e360.yale.edu/assets/site/GettyImages-1146667212_ColombiaCoffee_web.jpg"
+    },
+    {
+    "name": "Indonesia",
+    "latitude": "-0.7893",
+    "longitude": "113.9213",
+    "number": "11350",
+    "type": "bean",
+    "note":"",
+    "image":"https://cdn.shopify.com/s/files/1/0542/7527/6971/articles/Indonesia_image_2_1200x1200.jpg"
+    },
+    {
+    "name": "Ethiopia",
+    "latitude": "9.1450",
+    "longitude": "40.4897",
+    "number": "8250",
+    "type": "bean",
+    "note": "In Ethiopia, 21.6 percent of its coffee workers are reported to be 14 years old or less.",
+    "image":"https://www.comunicaffe.com/wp-content/uploads/2017/09/Ethiopian-coffee-growers.jpg"
+    },
+    {
+    "name": "Uganda",
+    "latitude": "1.3733",
+    "longitude": "32.2903",
+    "number": "6650",
+    "type": "bean",
+    "note": "In harvest season, a decline in school attendance is observed. Children perform hazardous work in coffee-growing families to support the farm and household activities.",
+    "image":"https://www.coffee-partners.org/wp-content/uploads/2018/08/HRNS_Uganda_0890.jpg"
+    },
+    {
+    "name": "Honduras",
+    "latitude": "15.2000",
+    "longitude": "-86.2419",
+    "number": "6000",
+    "type": "bean",
+    "note":"",
+    "image":"https://coffeehunter.com/wp-content/uploads/2015/08/Honduras-3.jpg"
+    },
+    {
+    "name": "India",
+    "latitude": "20.5937",
+    "longitude": "78.9629",
+    "number": "5740",
+    "type": "bean",
+    "note":"In India, among all workers in coffee plantations, 62% are women workers. The wage ratio between male and female workers is 0.97.",
+    "image":"https://ichef.bbci.co.uk/news/976/cpsprodpb/7C6D/production/_123335813_ad1dfa87-69f6-4fb8-bc23-c53987fb584e.png"
+    },
+    {
+    "name": "Peru",
+    "latitude": "9.1900",
+    "longitude": "-75.0152",
+    "number": "4200",
+    "type": "bean",
+    "note":"",
+    "image":"https://aymarafood.com/wp-content/uploads/2018/10/aymara-food-cueillete-de-cafe-1024x682.jpg"
+    },
+    {
+    "name": "Mexico",
+    "latitude": "23.6345",
+    "longitude": "-102.5528",
+    "number": "3845",
+    "type": "bean",
+    "note":"",
+    "image":"https://perfectdailygrind.com/wp-content/uploads/2017/01/productor-e1484874637311.jpg"
+    },
+    {
+    "name": "Guatemala",
+    "latitude": "15.7835",
+    "longitude": "-90.2308",
+    "number": "3730",
+    "type": "bean",
+    "note":"",
+    "image":"https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/13/16/guatemala-coffee-10.jpg"
+    },
+    {
+    "name": "Nicaragua",
+    "latitude": "12.8654",
+    "longitude": "-85.2072",
+    "number": "2800",
+    "type": "bean",
+    "note":"",
+    "image":"https://thumbs.dreamstime.com/b/madriz-nicaragua-january-man-picking-coffee-fruits-nicaraguan-farm-harvest-season-cutting-137828686.jpg"
+    },
+    {
+    "name": "China",
+    "latitude": "35.8617",
+    "longitude": "104.1954",
+    "number": "2000",
+    "type": "bean",
+    "note":"",
+    "image":"https://www.freshcup.com/wp-content/uploads/2016/12/PickersInField_1014x576.jpg"
+    },
+    {
+    "name": "Malaysia",
+    "latitude": "4.2105",
+    "longitude": "101.9758",
+    "number": "2000",
+    "type": "bean",
+    "note":"",
+    "image":"https://images.squarespace-cdn.com/content/v1/567577231c1210f594d26667/1460470929812-EHRHXUHBUBI21R3TC05K/shutterstock_236003338+lores.jpg"
+    },
+    {
+    "name": "Costa Rica",
+    "latitude": "9.7489",
+    "longitude": "-83.7534",
+    "number": "1365",
+    "type": "bean",
+    "note": "There are only 8 percent of women workers in coffee plantations in Costa Rica",
+    "image":"https://d33wubrfki0l68.cloudfront.net/1ccb37871fc2d9fe06aabcf07c01cf4628806c3c/fc9d9/img/tour-images/monteverde-coffee-tour-a-2-.jpg"
+    },
+    {
+    "name": "Tanzania",
+    "latitude": "-6.3690",
+    "longitude": "34.8888",
+    "number": "1150",
+    "type": "bean",
+    "note":"",
+    "image":"https://blog.algrano.com/hs-fs/hubfs/P1070705*.jpg?width=1600&name=P1070705*.jpg"
+    },
+    {
+    "name": "Cote d'Ivoire",
+    "latitude": "7.5400",
+    "longitude": "-5.5471",
+    "number": "800",
+    "type": "bean",
+    "note":"",
+    "image":"https://images.squarespace-cdn.com/content/v1/5c69ada57788977a41b8b60f/1629755851221-5RLPPWURQJNT0KGXS3AR/4903.jpg"
+    },
+    {
+    "name": "Papua New Guinea",
+    "latitude": "-6.3150",
+    "longitude": "143.9555",
+    "number": "800",
+    "type": "bean",
+    "note":"",
+    "image":"https://learn.bluecoffeebox.com/wp-content/uploads/2018/08/Papua-New-Guinea-Elimbari-B.jpg"
+    },
+    {
+    "name": "Kenya",
+    "latitude": "-0.0236",
+    "longitude": "37.9062",
+    "number": "700",
+    "type": "bean",
+    "note":"",
+    "image":"https://media.istockphoto.com/photos/young-african-woman-collecting-coffee-cherries-kenya-east-africa-picture-id1251363841?k=20&m=1251363841&s=612x612&w=0&h=zUXtvXuzc-uR1jJGTPPJJTUzOEjEhFjr3qAkKAj5hYE="
+    },
+    {
+    "name": "Thailand",
+    "latitude": "15.8700",
+    "longitude": "100.9925",
+    "number": "700",
+    "type": "bean",
+    "note":"",
+    "image":"https://thumbs.dreamstime.com/b/women-thailand-picking-red-coffee-seed-coffee-plantation-chiang-rai-november-doi-chang-chiang-rai-73665821.jpg"
+    },
+    {
+    "name": "El Salvador",
+    "latitude": "13.7942",
+    "longitude": "-88.8965",
+    "number": "575",
+    "type": "bean",
+    "note":"",
+    "image":"https://perfectdailygrind.com/wp-content/uploads/2020/11/El-Sal-Guide-3-1.jpg"
+    },
+    {
+    "name": "Venezuela",
+    "latitude": "6.4238",
+    "longitude": "-66.5897",
+    "number": "500",
+    "type": "bean",
+    "note":"",
+    "image":"https://www.telesurenglish.net/__export/1443553954981/sites/telesur/img/news/2015/09/29/cafe-680x365_c_1.jpg"
+    },
+    {
+    "name": "Laos",
+    "latitude": "19.8563",
+    "longitude": "102.4955",
+    "number": "485",
+    "type": "bean",
+    "note":"",
+    "image":"https://www.afd.fr/sites/afd/files/styles/visuel_principal/public/2021-07-03-33-58/LaosCaf%C3%A9Redim.png"
+    },
+    {
+    "name": "Philippines",
+    "latitude": "12.8797",
+    "longitude": "121.7740",
+    "number": "475",
+    "type": "bean",
+    "note":"",
+    "image":"https://businessmirror.com.ph/wp-content/uploads/2017/10/Pick-Red-2015-Atok-3.jpg"
+    },
+    {
+    "name": "Cameroon",
+    "latitude": "7.3697",
+    "longitude": "12.3547",
+    "number": "450",
+    "type": "bean",
+    "note":"",
+    "image":"https://perfectdailygrind.com/wp-content/uploads/2021/09/HMD03J-1024x675.jpg"
+    }
+    
+    ]
+    }
